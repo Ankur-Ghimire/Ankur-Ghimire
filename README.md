@@ -1,4 +1,3 @@
-CompTIA
 
 # 🛡️ Ankur Ghimire | Cybersecurity
 

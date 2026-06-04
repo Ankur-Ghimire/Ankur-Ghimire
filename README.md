@@ -26,7 +26,10 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ankur-Ghimire&theme=tokyonight)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ankur-Ghimire&theme=tokyonight)](https://git.io/streak-stats)-->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ankur-Ghimire&theme=tokyonight)](https://git.io/streak-stats)
+
 
 
 ### 🤝 Get In Touch
